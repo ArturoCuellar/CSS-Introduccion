@@ -9,6 +9,8 @@ p{
     color: red;
 }
 */
+
+@import url('https://fonts.googleapis.com/css2?family=Pushster&family=Yuji+Hentaigana+Akebono&display=swap');
 #title {
   color: #131313;
   background: #e7e5e4;
@@ -30,6 +32,7 @@ p{
 
 body {
   background: #d0e4f5 url("/assets/space.jpg");
+  font-family: 'Pushster', cursive;
 }
 
 p {
@@ -45,6 +48,10 @@ p {
 
 #titleAlbum {
   text-align: center;
+  color: white;
+}
+
+#mole{
   color: white;
 }
 
